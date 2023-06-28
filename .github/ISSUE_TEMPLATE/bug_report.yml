@@ -72,7 +72,7 @@ body:
       label: Which colab and model(s) were you using when the error occurred?
       description: Please enter the colab and model(s) link.
       placeholder: |
-        https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/stable_diffusion_webui_colab.ipynb
+        https://colab.research.google.com/github/camenduru/it-keeps-disconnecting/blob/main/lite/stable_diffusion_webui_colab.ipynb
         https://civitai.com/models/6755/cetus-mix
         https://civitai.com/models/8217/fashion-girl
         https://civitai.com/models/12597/moxin
