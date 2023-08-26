@@ -5,8 +5,8 @@
 ## 🦒 Drive Colab
 | nightly | Info - Token - Model Page
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/it-keeps-disconnecting/blob/main/drive/install.ipynb) | One Time Install & Update
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/it-keeps-disconnecting/blob/main/drive/run.ipynb) | Run
+[![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/it-keeps-disconnecting/blob/main/drive/install.ipynb) | One Time Install & Update
+[![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/it-keeps-disconnecting/blob/main/drive/run.ipynb) | Run
 
 ## 🦒 Colab
 | nightly | Info - Token - Model Page
