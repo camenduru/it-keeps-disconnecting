@@ -2,29 +2,6 @@
 🔥 Please join our discord server https://discord.gg/k5BwmmvJJU <br />
 🥳 Please join my patreon community https://patreon.com/camenduru <br />
 
-## ⚠ The Stable Diffusion community is starting to report that Google Colab is aggressively banning accounts. 😭
-## ⚠ We are trying to understand what is happening because the [official statement](https://www.reddit.com/r/StableDiffusion/comments/12t8tc7/comment/jh2yhaz/?utm_source=share&utm_medium=web2x&context=3) was "No bans planned if you click through (will delete the VMs at some point)"
-## ⚠ Please do not use any type of Stable Diffusion UI, such as #StableDiffusionWebUI, #ComfyUI, #StableSwarmUI with Google Colab. 
-## ⚠ If your account is banned, please open an issue here: https://github.com/googlecolab/colabtools/issues
-
-![image](https://github.com/camenduru/stable-diffusion-webui-colab/assets/54370274/631c7cae-e72d-4ca0-b062-3ffdb573a651)
-
-## ⚠ Alternatives
-https://github.com/camenduru/stable-diffusion-webui-sagemaker <br />
-https://github.com/camenduru/stable-diffusion-webui-paperspace <br />
-https://github.com/camenduru/stable-diffusion-webui-kaggle <br />
-https://github.com/camenduru/stable-diffusion-webui-runpod <br />
-https://github.com/camenduru/stable-diffusion-webui-vultr <br />
-https://github.com/camenduru/stable-diffusion-webui-docker <br />
-https://github.com/camenduru/stable-diffusion-webui-lambdalabs <br />
-https://github.com/camenduru/stable-diffusion-webui-saturncloud <br />
-https://github.com/camenduru/stable-diffusion-webui-modal <br />
-https://huggingface.co/spaces/camenduru-com/webui <br />
-https://huggingface.co/spaces/camenduru-com/webui-docker <br />
-https://github.com/camenduru/stable-diffusion-webui-openxlab <br />
-
-<!--
-
 ## 🦒 Drive Colab
 | nightly | Info - Token - Model Page
 | --- | --- |
@@ -240,5 +217,3 @@ https://github.com/camenduru/stable-diffusion-webui-openxlab <br />
 [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/it-keeps-disconnecting/blob/main/nightly/midnight_mixes_webui_colab_run.ipynb) | midnight_mixes_webui_colab <br /> (Thanks to Amed for the suggestion ❤) <br /> [DrBob2142/Midnight_Mixes](https://huggingface.co/DrBob2142/Midnight_Mixes)
 [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/it-keeps-disconnecting/blob/main/nightly/wd_1_5_beta3_webui_colab_run.ipynb) | wd_1_5_beta3_webui_colab <br /> (Thanks to imi for the suggestion ❤) <br /> [waifu-diffusion/wd-1-5-beta3](https://huggingface.co/waifu-diffusion/wd-1-5-beta3)
 [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/it-keeps-disconnecting/blob/main/nightly/edgeorealism_pink_hare_webui_colab_run.ipynb) | edgeorealism_pink_hare_webui_colab <br /> (Thanks to Wannafly7 for the model ❤) <br /> [Wannafly7/edgeorealismPinkHare](https://huggingface.co/Wannafly7/edgeorealismPinkHare)
-
--->
